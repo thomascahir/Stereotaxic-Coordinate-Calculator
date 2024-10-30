@@ -1,7 +1,7 @@
 # Stereotaxic Coordinate Calculator
 A python project that allows you to plot and compare electrode placement during craniotomy surgery.
 
-https://github.com/thomascahir/Stereotaxic-Coordinate-Calculator/blob/main/resources/screenshot.png
+![Screenshot](https://github.com/thomascahir/Stereotaxic-Coordinate-Calculator/blob/main/resources/screenshot.png?raw=true)
 
 # Versions
 v0.1 - Initial Release
