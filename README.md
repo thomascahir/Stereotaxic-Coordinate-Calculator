@@ -13,4 +13,3 @@ v0.1 - Initial Release
 
 # Planned Features
 - Add multiple models (currently only Rat) with dynamic overlay rendering.
--  
