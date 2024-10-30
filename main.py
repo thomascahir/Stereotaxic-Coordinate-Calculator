@@ -852,7 +852,7 @@ left2_frame = tk.Frame(left_top_frame)
 left2_frame.pack(side='left', fill='both', expand=True)
 
 # Load the coordinate map image
-right_image_path = "diagram_right.png"
+right_image_path = "resources/rat_brain_right.png"
 right_original_image = Image.open(right_image_path)
 
 # Right image frame

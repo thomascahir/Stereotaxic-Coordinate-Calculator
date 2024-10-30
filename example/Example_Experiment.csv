@@ -1,0 +1,38 @@
+Experiment Details
+Model,Rat
+Experiment ID,Test
+Animal ID,Test
+Lead/Team,Researcher
+Animal Weight,450
+Animal Age,12 weeks
+
+Region of Interest
+,Min Range,Max Range
+AP,1,3
+ML,2,4
+DV,1.5,2.5
+
+Reference Input
+Bregma AP,10.0
+Bregma ML,3.0
+Bregma DV,5.0
+Lambda AP,18.5
+Lambda ML,3.0
+Lambda DV,7.0
+
+Drilling
+,L-Hemisphere,R-Hemisphere
+AP,12,12
+ML,0.5,5.5
+Diameter,3.4,3.5
+
+Electrode Placements
+Position,AP,ML,DV,Rating,Comment
+1,2,3,1.5,0,
+2,2.5,3,1.5,1,nothing
+3,2.5,2.5,1.5,3,Movement!
+4,3.0,2.5,1.5,0,
+5,2.5,3.5,1.5,0,
+6,2.5,2.0,1.5,1,
+7,2.5,-2.5,1.5,3,
+8,2.0,-2.5,1.5,2,
