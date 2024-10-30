@@ -1,6 +1,8 @@
 # Stereotaxic Coordinate Calculator
 A python project that allows you to plot and compare electrode placement during craniotomy surgery.
 
+https://github.com/thomascahir/Stereotaxic-Coordinate-Calculator/blob/main/resources/screenshot.png
+
 # Versions
 v0.1 - Initial Release
 - Functionality to enter in AP,ML and DV coordinates, auto calculate bregma/lambda distance. Auto scaling function.
